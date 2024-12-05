@@ -1,19 +1,29 @@
-## Changelog
+# Changelog
 
-### Added
-- [Feature] Introduced new functionality to `<describe feature>`.
+## JIRA Ticket
+-  {Insert JIRA Ticket Link here}
+---
+#### Added
+- Introduced new functionality to `<describe feature>`.
 
-### Changed
+#### Changed
 - Updated `<module/file>` to improve `<specific improvement>`.
 
-### Fixed
+#### Fixed
 - Resolved issue causing `<describe issue>` in `<module/file>`.
 
-### Removed
+#### Removed
 - Deprecated `<feature/module>` due to `<reason>`.
 
 ---
 
-**Notes:**
+### Notes:
+
+#### Reviewer Notes
 - Ensure compatibility with `<specific tool/version>`.
+
+#### Testing Notes
+- Includes updates to relevant documentation.
+  
+#### Deployment Notes
 - Includes updates to relevant documentation.
