@@ -19,11 +19,9 @@
 
 ### Notes:
 
-#### Reviewer Notes
-- {Example - Ensure compatibility with `<specific tool/version>`.}
-
-#### Testing Notes
-- {Example - Make sure the `feature` is tested with new configuration}
+#### QA
+{Include what functionalities within the application needs to be tested as part of this PR}
   
-#### Deployment Notes
-- {Example - Includes updates to relevant documentation.}
+#### DevOps
+(Include dependent PR links here}
+{Include any manual console actions to be done}
